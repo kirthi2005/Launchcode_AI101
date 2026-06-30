@@ -90,3 +90,5 @@ Aligned to five trust fundamentals: scope (limited to repetitive reporting), con
 ---
 
 *Built as a capstone project for AI101 - Launchcode.*
+
+![Certification](AI101_Certification.pdf)
