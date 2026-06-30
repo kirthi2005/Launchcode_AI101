@@ -1,4 +1,4 @@
-# Launchcode_AI101
+# Launchcode_AI101 ![Certification](AI101_Certification.pdf)
 # AI Dev Assistant — Enterprise Automation Architecture
 
 An AI-driven agentic workflow built in Zapier that transforms fragmented engineering data (Jira, GitHub, GitHub Actions) into a structured, decision-ready daily operating brief — complete with standup scripts, blocker analysis, prioritized recommendations, and human-approved Slack distribution.
@@ -90,5 +90,3 @@ Aligned to five trust fundamentals: scope (limited to repetitive reporting), con
 ---
 
 *Built as a capstone project for AI101 - Launchcode.*
-
-![Certification](AI101_Certification.pdf)
