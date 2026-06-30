@@ -89,4 +89,4 @@ Aligned to five trust fundamentals: scope (limited to repetitive reporting), con
 
 ---
 
-*Built as a capstone project for AI101, Module 4–5 (Automation Architecture & Business Value Measurement).*
+*Built as a capstone project for AI101 - Launchcode.*
